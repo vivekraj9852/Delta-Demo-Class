@@ -5,5 +5,5 @@ This is a demo class.
 # Teacher
 Shradha Ma'm
 
-# Studenr
+# Student
 vivek Raj
