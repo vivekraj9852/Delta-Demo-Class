@@ -6,6 +6,6 @@ This is a demo class.
 Shradha Ma'm(Microsoft wali).
 
 # Student
-vivek Raj(koi pta nhi).
+vivek Raj is a student(koi pta nhi).
 
 
